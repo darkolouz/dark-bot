@@ -54,8 +54,8 @@ global.APIKeys = {
 
 
 //⊱ ════════════ •⊰✧⊱• ════════════
-global.imagen1 = ['./media/menu1.jpg']
-global.imagen4 = fs.readFileSync('./bixbyvision16.png')
+global.imagen1 = ['IMG-20240320-WA0119.jpg']
+global.imagen4 = fs.readFileSync('IMG-20240320-WA0119.jpg')
 //════════════ •⊰✧⊱• ════════════
 
 // Sticker WM
